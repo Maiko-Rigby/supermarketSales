@@ -1,1 +1,2 @@
 # supermarketSales
+This project is to display my understanding of different data visualisation models using seaborn and matplotlib. I used a supermarket sales dataset so the work I am doing can be transferred into a work enviroment.
